@@ -10,7 +10,7 @@ from sklearn.metrics import r2_score
 from sklearn.preprocessing import PolynomialFeatures
 
 
-MPhones = pd.read_csv('C:/Users/pawel/OneDrive/Pulpit/Projekty Python/Mobile-phones.csv', sep=';')
+MPhones = pd.read_csv('C:/Users/..../Mobile-phones.csv', sep=';')
 
 print(MPhones.head())
 MPhones.info()
